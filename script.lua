@@ -1,4 +1,5 @@
 local a = game.Players.LocalPlayer.UserId
+wait(5)
 if a == 545686828 then
 script.Parent.Parent.Parent.Loader.Visible = false
 else
