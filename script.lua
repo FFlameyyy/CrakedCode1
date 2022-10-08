@@ -1,4 +1,4 @@
-if game.Players.LocalPlayer.UserId == 545686828 then
+if game.Players.LocalPlayer.UserId == 3938880112 then
 else
 game.Players.LocalPlayer:kick("⚠️You Are Not Allowed To Use This Script.⚠️")
 end
